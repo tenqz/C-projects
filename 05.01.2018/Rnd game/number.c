@@ -5,9 +5,8 @@
 int main()
 {
 	int n;
-
 	srand(time(NULL));
-    int rnd = 1 + rand() % (100 - 1);
+	int rnd = 1 + rand() % (100 - 1);
 	printf("Введите число: \n");
 	scanf("%d", &n);
 	if (rnd > n)
