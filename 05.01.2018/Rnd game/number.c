@@ -1,4 +1,3 @@
-#define _CRT_SECURE_NO_WARNINGS // для возможности использования scanf
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
